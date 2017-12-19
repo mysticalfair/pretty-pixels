@@ -1,3 +1,2 @@
 # pretty-pixels
-Converts words to colour
-Needs Pillow 
+Converts words to colour, needs Pillow and numpy installed
